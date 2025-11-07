@@ -15,7 +15,7 @@ int main()
     cout <<"======================================\n";
     cout <<"       AREA CALCULATOR PROGRAM      \n";
     cout <<"======================================\n";
-   cout << "chose a shape :""\n";
+   cout << "choose a shape :""\n";
    cout << "1. Square\n";
    cout << "2. Rectangle \n";
    cout << "3. Rhombus \n";
